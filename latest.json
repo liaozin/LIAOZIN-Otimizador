@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
-  "downloadUrl": "https://github.com/liaozin/LIAOZIN-Otimizador/releases/download/1.7.0/LIAOZIN-Otimizador-Setup-v1.7.0.exe",
+  "version": "1.7.1",
+  "downloadUrl": "https://github.com/liaozin/LIAOZIN-Otimizador/releases/download/1.7.1/LIAOZIN-Otimizador-Setup-v1.7.0.exe",
   "notes": "Correções no monitoramento de FPS e GPU, limpeza automática das sessões PresentMon/ETW, correções de traduções, inicialização automática com o Windows na bandeja, melhorias de personalização e correções gerais."
 }
