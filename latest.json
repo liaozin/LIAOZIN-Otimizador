@@ -1,5 +1,5 @@
 {
-  "version": "1.6.1",
-  "downloadUrl": "https://github.com/liaozin/LIAOZIN-Otimizador/releases/download/v1.6.1/LIAOZIN-Otimizador-Setup-v1.6.1.exe",
-  "notes": "Correção da Personalização, instância única e instalador que fecha sozinho."
+  "version": "1.6.2",
+  "downloadUrl": "https://github.com/liaozin/LIAOZIN-Otimizador/releases/download/v1.6.2/LIAOZIN-Otimizador-Setup-v1.6.2.exe",
+  "notes": "Limpeza por seções; update do app só em Configurações."
 }
