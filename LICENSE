@@ -1,0 +1,255 @@
+LIAOZIN OTIMIZADOR
+SOFTWARE LICENSE AGREEMENT
+Version 1.0 — 2026
+
+Copyright (c) 2026 LIAOZIN
+All Rights Reserved.
+
+
+1. DEFINITIONS
+
+"Software" means the LIAOZIN Otimizador application, including its
+compiled binaries, source code, scripts, assets, documentation,
+configuration files, installers, update components and associated
+materials.
+
+"Author" means the creator and copyright holder of the LIAOZIN
+Otimizador project.
+
+"User" means any person who downloads, installs or uses the Software.
+
+
+2. GRANT OF USE
+
+Subject to the terms of this License, the Author grants the User a
+limited, non-exclusive, non-transferable and revocable license to
+install and use the Software for personal and lawful purposes.
+
+The Software may be used on computers owned or controlled by the User,
+provided that such use complies with this License and applicable laws.
+
+
+3. PERSONAL USE
+
+The User may:
+
+- Download the Software from an official distribution source.
+- Install the Software on personal computers.
+- Use the Software for personal, educational or testing purposes.
+- Receive and install official updates distributed by the Author.
+- Make reasonable backup copies of the installer for personal use.
+
+
+4. RESTRICTIONS
+
+Except where expressly permitted by the Author in writing, the User
+may NOT:
+
+- Sell, rent, lease or sublicense the Software.
+- Redistribute modified or repackaged versions of the Software.
+- Reverse engineer, decompile or disassemble the Software for the
+  purpose of creating a competing product.
+- Modify, adapt or create derivative works from the Software.
+- Copy, reproduce or redistribute the source code.
+- Remove copyright notices, license notices or attribution.
+- Use the Software or its source code to create a substantially
+  similar competing product.
+- Redistribute the official installer as part of another software
+  package without permission.
+- Claim ownership of the Software or any part of the LIAOZIN project.
+- Use the LIAOZIN name, logo, mascot or other branding in a manner
+  that suggests official endorsement without authorization.
+
+
+5. SOURCE CODE
+
+Unless explicitly stated otherwise by the Author, the source code of
+the LIAOZIN Otimizador is proprietary and is not licensed for copying,
+modification, redistribution or creation of derivative works.
+
+Publication of source code on a public repository does not, by itself,
+grant permission to use, copy, modify or redistribute that source code.
+
+All rights not expressly granted by this License are reserved by the
+Author.
+
+
+6. COMMERCIAL USE
+
+Commercial use, redistribution, bundling, resale, integration into
+commercial products or deployment within an organization beyond
+ordinary internal evaluation requires prior written permission from
+the Author.
+
+The Author may grant separate commercial licenses under terms agreed
+with the requesting party.
+
+
+7. TRADEMARKS AND BRANDING
+
+"LIAOZIN", "LIAOZIN Otimizador", associated logos, artwork, mascot
+designs and other project branding are not granted under this License.
+
+No permission is granted to use these names or assets to imply that a
+modified, redistributed or third-party product is officially
+associated with the LIAOZIN project.
+
+
+8. THIRD-PARTY SOFTWARE
+
+The Software may interact with, invoke or distribute components,
+services or technologies provided by third parties, including
+Microsoft Windows components, Windows Defender, WinGet, PresentMon,
+ETW, GitHub services and other system or third-party technologies.
+
+Such components may be subject to their own licenses and terms.
+
+This License does not replace or supersede any applicable third-party
+license.
+
+Users are responsible for complying with the terms applicable to
+third-party components and services they use.
+
+
+9. UPDATES
+
+The Software may periodically check for updates through official
+project distribution services.
+
+Updates may contain new features, bug fixes, security improvements,
+compatibility changes or other modifications.
+
+The Author reserves the right to modify, suspend or discontinue
+distribution of any version of the Software at any time.
+
+
+10. SYSTEM ACCESS AND ADMINISTRATIVE PRIVILEGES
+
+Certain Software features may require administrative privileges or
+interaction with Windows system components.
+
+The User understands that such features may modify system settings,
+perform maintenance operations, access protected locations or invoke
+Windows administrative tools.
+
+The Software should only be granted the permissions necessary for the
+features the User chooses to use.
+
+
+11. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY
+APPLICABLE LAW.
+
+THE AUTHOR DOES NOT WARRANT THAT THE SOFTWARE WILL:
+
+- OPERATE WITHOUT INTERRUPTION;
+- BE FREE OF BUGS OR ERRORS;
+- BE COMPATIBLE WITH EVERY HARDWARE OR SOFTWARE CONFIGURATION;
+- PRODUCE A PARTICULAR PERFORMANCE IMPROVEMENT;
+- PREVENT SYSTEM FAILURES;
+- CORRECT ALL WINDOWS CONFIGURATION OR PERFORMANCE ISSUES.
+
+
+12. SYSTEM MODIFICATIONS
+
+The Software contains features capable of modifying Windows settings,
+cleaning files, changing configuration values or performing system
+maintenance.
+
+The User is responsible for reviewing and understanding actions before
+applying them.
+
+The Author is not responsible for damage, data loss, configuration
+changes, software incompatibility or other consequences resulting from
+the User's use of system-modification features, to the maximum extent
+permitted by applicable law.
+
+Users should maintain appropriate backups of important data.
+
+
+13. DATA AND PRIVACY
+
+The Software is designed to perform its primary optimization,
+maintenance and monitoring functions locally on the User's computer.
+
+Where applicable, the Software may communicate with external services
+for functions such as software updates or other features that require
+network access.
+
+The Software does not grant the Author ownership of User files,
+documents or personal data.
+
+Any data collected or processed by third-party services is subject to
+the terms and privacy policies of those services.
+
+
+14. SECURITY
+
+No software can guarantee complete security.
+
+The Author does not guarantee that the Software will detect, prevent
+or remove every security threat, malicious file, vulnerability or
+system compromise.
+
+The Software should not be considered a replacement for Microsoft
+Defender, Windows security features or professional security software.
+
+
+15. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR SHALL
+NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR
+PUNITIVE DAMAGES ARISING FROM OR RELATED TO THE USE OR INABILITY TO
+USE THE SOFTWARE.
+
+THIS INCLUDES, WITHOUT LIMITATION, LOSS OF DATA, LOSS OF PROFITS,
+SYSTEM DOWNTIME, HARDWARE DAMAGE, SOFTWARE DAMAGE OR LOSS OF
+CONFIGURATION.
+
+
+16. TERMINATION
+
+This License automatically terminates if the User violates its terms.
+
+Upon termination, the User must stop using and distributing the
+Software and any unauthorized copies or modified versions.
+
+Termination does not affect rights or obligations that, by their
+nature, should survive termination.
+
+
+17. CHANGES TO THIS LICENSE
+
+The Author may publish updated versions of this License for future
+versions of the Software.
+
+A particular version of the Software remains subject to the License
+applicable to that version unless otherwise stated by the Author.
+
+
+18. COPYRIGHT
+
+All copyrights and other intellectual property rights relating to the
+Software, including source code, original artwork, interface designs,
+documentation, logos and other original materials, remain with the
+Author unless explicitly stated otherwise.
+
+Unauthorized copying or redistribution may violate applicable
+copyright or other intellectual property laws.
+
+
+19. CONTACT
+
+For licensing requests, commercial use, redistribution permissions,
+copyright questions or other legal inquiries, contact the project
+author through the official LIAOZIN project repository.
+
+
+20. RESERVATION OF RIGHTS
+
+All rights not expressly granted under this License are reserved.
+
+Copyright (c) 2026 LIAOZIN
+All Rights Reserved.
