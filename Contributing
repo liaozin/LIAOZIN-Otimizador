@@ -1,0 +1,83 @@
+# Contribuindo com o LIAOZIN Otimizador
+
+Obrigado pelo interesse em contribuir com o LIAOZIN Otimizador! 🦁
+
+O projeto busca manter uma base de código organizada, leve, segura e fácil de manter.
+
+## Antes de contribuir
+
+Antes de abrir uma Issue ou Pull Request:
+
+1. Verifique se o problema já foi reportado.
+2. Consulte a documentação existente.
+3. Evite alterações grandes quando uma solução menor for suficiente.
+4. Mantenha a compatibilidade com Windows 10/11 sempre que possível.
+
+## Ambiente de desenvolvimento
+
+O projeto utiliza:
+
+- .NET 8
+- WPF
+- C#
+- Windows 10/11
+- Build self-contained x64
+
+## Código
+
+Procure manter o padrão existente do projeto.
+
+Especialmente:
+
+- Código legível.
+- Métodos com responsabilidades claras.
+- Evitar duplicação desnecessária.
+- Manter a identidade visual existente.
+- Utilizar o sistema de localização para novos textos.
+- Preferir alterações reversíveis quando modificar configurações do Windows.
+
+## Tweaks
+
+Alterações no Windows devem seguir alguns princípios:
+
+- Preferir HKCU quando possível.
+- Manter estado atual do tweak.
+- Permitir restauração sempre que possível.
+- Informar quando uma alteração exige administrador.
+- Evitar alterações irreversíveis.
+- Nunca desativar Microsoft Defender, SmartScreen ou mecanismos essenciais de segurança.
+
+## Pull Requests
+
+Ao abrir um Pull Request, informe:
+
+- O que foi alterado.
+- Qual problema foi resolvido.
+- Como a alteração foi testada.
+- Se houve alteração de interface.
+- Se houve alteração em configurações do Windows.
+- Se novos textos de interface foram adicionados.
+
+Pull Requests pequenos e focados são preferíveis.
+
+## Testes
+
+Antes de enviar uma alteração, verifique:
+
+- O projeto compila.
+- O aplicativo inicia corretamente.
+- A função modificada funciona.
+- A função pode ser restaurada quando aplicável.
+- Não existem erros óbvios na interface.
+- As traduções estão funcionando.
+- O comportamento no Windows 10/11 permanece adequado.
+
+## Issues
+
+Para bugs, utilize o template de bug report.
+
+Para novas ideias ou recursos, utilize o template de feature request.
+
+## Licença
+
+Ao contribuir com o projeto, você concorda que sua contribuição será disponibilizada sob a licença do projeto.
